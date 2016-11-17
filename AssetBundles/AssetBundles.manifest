@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 210929422
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: black
+      Dependencies:
+        Dependency_0: gray
+    Info_1:
+      Name: white
+      Dependencies:
+        Dependency_0: gray
+    Info_2:
+      Name: gray
+      Dependencies: {}
